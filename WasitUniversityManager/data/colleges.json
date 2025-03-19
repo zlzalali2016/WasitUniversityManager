@@ -1,0 +1,15 @@
+[
+  {
+    "name": "كلية علوم الحاسوب وتكنلوجيا المعلومات",
+    "students_count": 1,
+    "foreign_students": 1,
+    "graduate_students": 1,
+    "dorm_students": 1,
+    "evening_students": 1,
+    "evening_hosted_students": 1,
+    "departments": [
+      "قسم البرامجيات",
+      "قسم الحاسوب"
+    ]
+  }
+]
